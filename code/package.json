@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "di": "^2.0.0-pre-14",
+    "di": "2.0.0-pre-14",
     "director": "^1.2.8",
     "react": "^0.12.2",
     "whatwg-fetch": "^0.7.0"
